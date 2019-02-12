@@ -9,8 +9,7 @@ def index():
     return "ok"
 
 
-def.text():
-    pass
+
 
 
 if __name__ == '__main__':
