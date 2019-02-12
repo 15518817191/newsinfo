@@ -8,5 +8,11 @@ app.config.from_object(dict_config['config'])
 def index():
     return "ok"
 
+
+def.text():
+    pass
+
+
 if __name__ == '__main__':
     app.run()
+    
